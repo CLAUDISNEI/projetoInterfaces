@@ -11,7 +11,7 @@ import model.entities.Veiculo;
 import model.services.ServicoAluguel;
 import model.services.TaxasBrasil;
 
-public class ProgramaExemploSolucao1SemInterface {
+public class ProgramaExemploVersoesNoGitHub {
 
 	public static void main(String[] args) {
 		
